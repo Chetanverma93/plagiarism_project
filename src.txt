@@ -1,0 +1,17 @@
+Data science is the field about processes and systems to extract data from various forms of whether it is unstructured or structure form. Data science is the way of study of data. Data science involves data and some science. Data science is a process not an event, it is the process of using data to understand the world. Data science is the art of uncovering the insights and trends that are hiding behind data.
+Data science is the field of exploring , manipulating and analyzing data and using data to answer question or make recommendations.
+
+According to professor Haider the three important qualities passes in order to success as a data scientist are.....1.curious 2. judgmental 3. argumentative. A data scientist is a professional responsible for collecting, analyzing and interpreting the large amount of data. the data scientist role is an offshoot of several traditional technical roles, including mathematician, scientist,statistician and computer professional.
+A data scientist require large amounts of data to develop hypotheses, make inferences and analyze customer and market trends. Basic responsibilities include fathering and analyzing data using various types of analytics and reporting tools to detect patterns trends and relationships in data sets.
+
+
+
+
+
+The data science can be applied to  problem across so many industries . some industries like Healthcare,finance, traveling industry, energy,manufacturing , gaming , pharmaceuticals.
+If I  have a chance that i want to go into an industry then i will go with the Healthcare industry and pharmaceuticals industry,
+
+
+
+
+
